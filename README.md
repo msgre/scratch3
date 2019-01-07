@@ -1,5 +1,5 @@
 My friend become sad because there is no offline version of recently released Scratch 3. So, here is recipe
-how you can run Scratch 3 on your own Linux computer.
+how he (and you!) can run Scratch 3 on your own Linux computer.
 
 # How to build Scratch 3 Docker image
 
