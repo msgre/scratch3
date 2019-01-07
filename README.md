@@ -3,7 +3,7 @@ how he (and you!) can run Scratch 3 on your own Linux computer.
 
 # How to build Scratch 3 Docker image
 
-[Install Docker][https://docs.docker.com/install/linux/docker-ce/ubuntu/], clone this repository and run:
+[Install Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/), clone this repository and run:
 
     $ ./build.sh
 
